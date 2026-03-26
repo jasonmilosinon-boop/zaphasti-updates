@@ -1,6 +1,6 @@
 {
-  "latest": "1.4.2",
-  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4.2/zaphasti-update-1.4.2.zip",
-  "sha256": "a7b3e5f1eddafc4145e38059ca84057ab4f0cceddc494d97f8cd3aa2ca59d3a3",
-  "notes": "Переработана система свапа и много всего другого"
+  "latest": "1.4.3",
+  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4.3/zaphasti-update-1.4.3.zip",
+  "sha256": "f0acbc9c1ebdda197112c481c02ba0e3eca79277925700bd454fe1ffc266b9d2",
+  "notes": ""
 }
