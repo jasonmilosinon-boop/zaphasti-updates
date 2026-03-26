@@ -1,6 +1,6 @@
 {
-  "latest": "1.4.7",
-  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4.7/zaphasti-update-1.4.7.zip",
-  "sha256": "9fefb6d29f0afb4b7c55f54fafbd5d0debd020353caa87d5d29e2daa2d4abb56",
-  "notes": "Bubble Z иконка поставлена везде: лаунчер, инсталлер, ярлыки и Update Manager."
+  "latest": "1.4.8",
+  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4.8/zaphasti-update-1.4.8.zip",
+  "sha256": "9a937c4ee4529f4a71c81f8f18aaa33b5c96739718e51ed382ba44cb2b66405d",
+  "notes": "Фикс проверки обновлений: обход кэша raw.githubusercontent и fallback на GitHub API."
 }
