@@ -1,6 +1,6 @@
 {
-  "latest": "1.3",
-  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.3/zaphasti-update-1.3.zip",
-  "sha256": "6dcffdc081858a468946b569a0c9a80ef548dae1d2887c19a1e9ad92b402e105",
-  "notes": ""
+  "latest": "1.4",
+  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4/zaphasti-update-1.4.zip",
+  "sha256": "afc2d28c6dfbc32a79a1ffe6e32cda33dc6d56a953b2400249f8bae9e2fa2093",
+  "notes": "Обновленный таргет перл , меню тп к друзьям"
 }
