@@ -1,6 +1,6 @@
 {
-  "latest": "1.4",
-  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4/zaphasti-update-1.4.zip",
-  "sha256": "91ea5c9b734554e6786b917bbb039dd46c741246fed38afecb8404f451281ebe",
-  "notes": ""
+  "latest": "1.4.1",
+  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4.1/zaphasti-update-1.4.1.zip",
+  "sha256": "1f0a8a41430fd297c9a12fc464dced7eb1245722cdc8bb312920ac2b45f482d9",
+  "notes": "fix launcher startup after installer and update pipeline rebuild"
 }
