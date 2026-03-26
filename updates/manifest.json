@@ -1,6 +1,6 @@
 {
-  "latest": "1.4.6",
-  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4.6/zaphasti-update-1.4.6.zip",
-  "sha256": "7baa60d9b99f617abb56897f06c641cdbda564d2ac983931d1454354d5ce1210",
-  "notes": "Новый фирменный значок лаунчера и инсталлера в стиле Zaphasti."
+  "latest": "1.4.7",
+  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4.7/zaphasti-update-1.4.7.zip",
+  "sha256": "9fefb6d29f0afb4b7c55f54fafbd5d0debd020353caa87d5d29e2daa2d4abb56",
+  "notes": "Bubble Z иконка поставлена везде: лаунчер, инсталлер, ярлыки и Update Manager."
 }
