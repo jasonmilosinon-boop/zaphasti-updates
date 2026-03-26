@@ -1,6 +1,6 @@
 {
-  "latest": "1.4.3",
-  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4.3/zaphasti-update-1.4.3.zip",
-  "sha256": "f0acbc9c1ebdda197112c481c02ba0e3eca79277925700bd454fe1ffc266b9d2",
-  "notes": ""
+  "latest": "1.4.4",
+  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4.4/zaphasti-update-1.4.4.zip",
+  "sha256": "bc711aa1322cb40fdcd8a403b760accf1dee8759ff9a848a810a46a9f78d9e3d",
+  "notes": "Фикс апдейтера, стабильный запуск после обновления, возврат логики AutoTool."
 }
