@@ -1,6 +1,6 @@
 {
-  "latest": "1.4.5",
-  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4.5/zaphasti-update-1.4.5.zip",
-  "sha256": "91234177e14911542d780097bb795516b90e0f8752e7b2185bfdd97daffd3411",
-  "notes": "Новая иконка лаунчера и инсталлера."
+  "latest": "1.4.6",
+  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4.6/zaphasti-update-1.4.6.zip",
+  "sha256": "7baa60d9b99f617abb56897f06c641cdbda564d2ac983931d1454354d5ce1210",
+  "notes": "Новый фирменный значок лаунчера и инсталлера в стиле Zaphasti."
 }
