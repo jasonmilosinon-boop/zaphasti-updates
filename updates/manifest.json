@@ -1,6 +1,6 @@
 {
-  "latest": "1.1",
-  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.1/zaphasti-update-1.1.zip",
-  "sha256": "c7456604ec4fc425b3938af20455198fe096f1705d2d154f00d6ecd08d67cf95",
-  "notes": ""
+  "latest": "1.3",
+  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.3/zaphasti-update-1.3.zip",
+  "sha256": "28aeef8719a054ba8e60cd0e1cf477610fa3de4a5c66bb8631f04af4436adbd5",
+  "notes": "Auto publish fix for update prompt"
 }
