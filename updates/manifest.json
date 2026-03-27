@@ -1,6 +1,6 @@
 {
-  "latest": "1.4.8.2",
-  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4.8.2/zaphasti-update-1.4.8.2.zip",
-  "sha256": "44b55770fb5aeb3a6aa3970a7b44f38d4e5c5ae53ed0bf19f3e204227a6093c7",
-  "notes": ""
+  "latest": "1.4.8.3",
+  "url": "https://github.com/jasonmilosinon-boop/zaphasti-updates/releases/download/update-v1.4.8.3/zaphasti-update-1.4.8.3.zip",
+  "sha256": "83533a1147baa05ac6ba73eda94abca2e3bab7c954902dafefcb34bcfde2a43c",
+  "notes": "AnimeFX: Sukuna rework, Mahito integrated, Naoya removed, SwordStyles fixed"
 }
